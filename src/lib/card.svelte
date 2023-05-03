@@ -18,6 +18,6 @@
 
 <style>
     .card{
-      background-color:brown;
+      background-color:rgb(202, 205, 207);
     }
 </style>

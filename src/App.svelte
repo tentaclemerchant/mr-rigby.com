@@ -6,14 +6,14 @@
   import Tim from "./assets/tim.png"
   import Twnt from "./assets/twnt.png"
   import bwbl from "./assets/bwlb.png"   
-  import rigby from "./assets/images.jpg"
+  import rigby from "./assets/rigby.gif"
 </script>
 
 <main>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
 
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Navbar</a>
+      <a class="navbar-brand" href="#">Mr-Rigby.com :3</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -22,9 +22,7 @@
           
          
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Sections
-            </a>
+            
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#">Top</a></li>
               <li><a class="dropdown-item" href="#">Members</a></li>
@@ -67,7 +65,7 @@
   </div>
   <div class="btn-group">
     <button class="btn btn-success btn-lg dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-      Des World download
+      Old World Downloads
     </button>
     <ul class="dropdown-menu">
       <li><a class="dropdown-item" href="https://drive.google.com/file/d/1vQKKltfZccYKUPOs7m31Qd21hu1YmhiH/view?usp=share_link">1.16</a></li>
